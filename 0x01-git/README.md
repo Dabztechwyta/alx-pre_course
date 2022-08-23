@@ -1,3 +1,3 @@
 A new Directory
 
-Create a second branch
+Created a second branch
