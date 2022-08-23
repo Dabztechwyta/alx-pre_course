@@ -1,2 +1,3 @@
 A new Directory
-Create a sebconf branch
+
+Create a second branch
